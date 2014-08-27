@@ -1,0 +1,8 @@
+theme, buffer_dis, notes
+brentonWA200,200000, PLANSAQ01
+shoredis,40233.6, PLANSAQ01
+brentonWA100,100000, PIPELINESAQ01
+archBlock50,50, plansAr01
+archBlock300,300, plansAr01
+archBlock50,50, pipeAr01
+archBlock300,300, pipeAr01
